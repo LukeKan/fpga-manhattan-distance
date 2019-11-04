@@ -1,7 +1,7 @@
-#FPGA design project for the course "Reti Logiche" of Politecnico di Milano, a.y. 2018/2019 #
+#FPGA design project for the course "Reti Logiche" of Politecnico di Milano, a.y. 2018/2019 
 The pdf file is an italian version of the official documentation of the project.
 
-##Summary##
+##Summary
 This project requires the design of a VHDL component which is able to interface with a RAM memory in order to read the bidimensional coordinates of:
 * a reference point;
 * 8 centroids;
